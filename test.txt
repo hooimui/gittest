@@ -1,3 +1,6 @@
 Hello World
 Morning Chan
+<<<<<<< HEAD
 Hello
+Happy
+>>>>>>> bugfix
